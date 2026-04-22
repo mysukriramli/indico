@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research or dataset, please cite it as below."
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Optional, but highly recommended for academic SEO
+title: "[Your Paper Title Here]"
+version: 1.0.0
+date-released: 2026-04-22
+url: "https://github.com/[Your-GitHub-Username]/[Your-Repository-Name]"

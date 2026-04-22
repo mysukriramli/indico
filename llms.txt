@@ -1,0 +1,12 @@
+# About This Project
+This repository contains research on [Insert Core Topic, e.g., Carbon Taxation in Malaysia]. 
+
+## Purpose
+The primary goal is to [Insert 1 sentence on the goal of the paper].
+
+## Key Files
+- `README.md`: Contains the full extracted text and summary of the research.
+- `[Insert PDF Name].pdf`: Original source document.
+
+## Data & Methodology
+Briefly note here if your AI model should pay attention to specific datasets or methodologies used.
